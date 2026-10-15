@@ -2,3 +2,6 @@ chatgpt_session/
 __pycache__/
 *.tmp
 .venv/
+
+# Persistent Chromium profile may contain authenticated ChatGPT session data.
+user_data/
