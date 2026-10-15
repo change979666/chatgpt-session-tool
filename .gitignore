@@ -1,0 +1,4 @@
+chatgpt_session/
+__pycache__/
+*.tmp
+.venv/
