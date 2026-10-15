@@ -43,3 +43,13 @@ cookies).
 - Selectors target the current chatgpt.com DOM; if the site changes, use the
   "debug (DOM)" button to inspect the live page and update the selectors.
 - This project is for personal automation of your own logged-in session.
+
+## License & Attribution / 许可与来源
+
+Original project code authored for this repository is released under the MIT License; see [LICENSE](./LICENSE).
+
+When reusing or redistributing a substantial portion, retain the LICENSE and its copyright notice. The copyright notice includes this original source URL: https://github.com/change979666/chatgpt-session-tool. Please keep the source link visible in your redistributed source or project documentation.
+
+This license applies only to original material that the repository maintainer has the right to license. Third-party libraries, vendor code, platform SDKs, trademarks, screenshots, icons, fonts, and other external assets remain subject to their respective licenses and terms. Review those terms before reuse.
+
+**Project status:** personal/archived project, shared as-is. Maintenance, compatibility, and production readiness are not guaranteed.
